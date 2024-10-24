@@ -51,6 +51,6 @@ public class Partido {
 		this.equipoA.addGoles(golesA, golesB);
 		this.equipoB.addGoles(golesB, golesA);
 		
-		System.out.println("eq: " + this.equipoA.nombre + " " + this.equipoA.derrotas);
+		
 	}
 }
